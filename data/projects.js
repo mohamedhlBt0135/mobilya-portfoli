@@ -13,19 +13,21 @@ export const projects = [
   },
 
   // قوالب مشاريع جديدة: املأ البيانات ثم احذف /* و */ لإظهارها في الموقع.
-  /*
+  
   {
-    title: '',
-    description: '',
-    coverImage: '',
-    images: [],
+    title: '3D',
+    description: '**تصميم 3D لمطبخ مودرن بتوزيع عملي، يجمع بين لون الخشب والألوان الهادية مع استغلال ممتاز للمساحة وتوزيع مريح للوحدات والأجهزة. ✨
+',
+    coverImage: 'images/projects/pp2.png',
+    images: ['images/projects/pp2.png'],
     videos: [],
-    location: '',
-    year: '',
-    area: '',
-    materials: '',
-    duration: ''
+    location: 'حى العريض المدينه المنورة',
+    year: '2026',
+    area: '13 م',
+    materials: '**تصميم 3D لمطبخ مودرن بتوزيع عملي، يجمع بين لون الخشب والألوان الهادية مع استغلال ممتاز للمساحة وتوزيع مريح للوحدات والأجهزة ',
+    duration: '15 يوم'
   },
+  /*
   {
     title: '',
     description: '',
