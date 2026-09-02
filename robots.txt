@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mobilya-al-iqtisad.sa/sitemap.xml
